@@ -1,4 +1,4 @@
-AI Text Dectecor
+### AI Text Dectecor
 
 **Problem Statement**
 
