@@ -31,7 +31,7 @@ Here, we have divided the modeling part into two sections.
 - Model with Countvectorizer.
 - Model with TfidfVectorizer
 
-And below is the list of classification models used  
+Below is the list of classification models used  
 
 **The models that we used here:**
 
