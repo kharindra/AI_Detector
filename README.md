@@ -1,5 +1,7 @@
 ### AI Text Dectecor
 
+---
+
 **Problem Statement**
 
 To develop an AI text detector for distinguishing between human-generated and AI-generated text with increased accuracy
