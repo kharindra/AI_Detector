@@ -28,7 +28,7 @@ The following subreddits were selected to gather question-answer pairs, and the 
 - publicfreakout
 
 
-Here, we have divided the modeling part into two sections.
+**Here, we have divided the modeling part into two sections.**
 
 - Model with Countvectorizer.
 - Model with TfidfVectorizer
