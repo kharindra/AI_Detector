@@ -55,5 +55,7 @@ Among the options mentioned above, we discovered that the LogisticRegressionCV m
 
 **Conclusion**
 
+---
+
 Our findings indicate that retaining stopwords within our model enhances the accuracy of the AI text detector. Remarkably, the highest accuracy is achieved when employing the logistic regression with cross-validation (LogisticRegressionCV) model.
 
