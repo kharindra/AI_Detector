@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: AI Text Dectecor
+### AI Text Dectecor
+
+---
 
 **Problem Statement**
 
@@ -26,12 +28,12 @@ The following subreddits were selected to gather question-answer pairs, and the 
 - publicfreakout
 
 
-Here, we have divided the modeling part into two sections.
+**Here, we have divided the modeling part into two sections.**
 
 - Model with Countvectorizer.
 - Model with TfidfVectorizer
 
-And below is the list of classification models used  
+Below is the list of classification models used  
 
 **The models that we used here:**
 
@@ -52,6 +54,8 @@ Among the options mentioned above, we discovered that the LogisticRegressionCV m
 
 
 **Conclusion**
+
+---
 
 Our findings indicate that retaining stopwords within our model enhances the accuracy of the AI text detector. Remarkably, the highest accuracy is achieved when employing the logistic regression with cross-validation (LogisticRegressionCV) model.
 
