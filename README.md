@@ -1,4 +1,4 @@
-### AI Text Dectecor
+### AI Text Detector
 
 ---
 
@@ -27,7 +27,7 @@ The following subreddits were selected to gather question-answer pairs, and the 
 - nevertellmetheodds
 - publicfreakout
 
-
+---
 **Here, we have divided the modeling part into two sections.**
 
 - Model with Countvectorizer.
