@@ -12,20 +12,20 @@ The goal of this project is to develop an AI text detector for distinguishing be
 
 The following subreddits were selected to gather question-answer pairs, and the same questions were utilized to obtain responses from CHATGPT.
 
-      - science
-      - relationship_advice
-      - funny
-      - NoStupidQuestions
-      - AskReddit
-      - gaming
-      - unresolvedmysteries
-      - wewantplates
-      - disneyvacation
-      - talesfromretail
-      - antiMLM
-      - IDontWorkHereLady
-      - nevertellmetheodds
-      - publicfreakout
+      science
+      relationship_advice
+      funny
+      NoStupidQuestions
+      AskReddit
+      gaming
+      unresolvedmysteries
+      wewantplates
+      disneyvacation
+      talesfromretail
+      antiMLM
+      IDontWorkHereLady
+      nevertellmetheodds
+      publicfreakout
 
 ---
 **Here, we have divided the modeling part into two sections.**
