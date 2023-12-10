@@ -63,9 +63,9 @@ The table below indicates the comparison of the model performances based on the 
 | LinearSVC            | 0.982           | 0.892         | 0.849       | 0.931       | 0.921     |
 
 
-**Conclusion**
-
 ---
+
+**Conclusion**
 
 Our findings indicate that retaining stopwords within our model enhances the accuracy of the AI text detector. Remarkably, the highest accuracy is achieved when employing the logistic regression with cross-validation (LogisticRegressionCV) model.
 
