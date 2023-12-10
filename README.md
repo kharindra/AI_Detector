@@ -30,8 +30,8 @@ The following subreddits were selected to gather question-answer pairs, and the 
 ---
 **Here, we have divided the modeling part into two sections.**
 
-      o Model with Countvectorizer
-      o Model with TfidfVectorizer
+      1.) Model with Countvectorizer
+      2.) Model with TfidfVectorizer
 
 Below is the list of classification models used  
 
