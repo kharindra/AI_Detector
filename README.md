@@ -4,7 +4,7 @@
 
 **Problem Statement**
 
-To develop an AI text detector for distinguishing between human-generated and AI-generated text with increased accuracy
+The goal of this project is to develop an AI text detector for distinguishing between human-generated and AI-generated text with increased accuracy.
 
 **Data Collection**
 
